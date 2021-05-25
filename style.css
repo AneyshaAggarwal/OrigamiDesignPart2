@@ -1,0 +1,49 @@
+h1
+{
+    color: rebeccapurple;
+    background-color:plum;
+    font-style: italic;
+    font-family: fantasy;
+}
+
+h3
+{
+    color:crimson;
+    font-family: monospace;
+    font-family: fantasy;
+}
+
+.header
+{
+    border: dotted;
+    border-color:rgb(0, 132, 209);
+    display:flex;
+    justify-content: space-between;
+    font-family:cursive;
+    background:pink;
+}
+
+.body
+{
+    border: dotted;
+    border-color:rgb(0, 132, 209);
+    font-family:cursive;
+    color:lightcoral;
+    background:lightcyan;
+}
+
+.medialinks
+{
+    border: dotted;
+    border-color:teal;
+    font-family:inherit;
+    color:springgreen;
+}
+
+.facts
+{
+    border: dotted;
+    border-color:darkred;
+    font-family:inherit;
+    color:coral;
+}
